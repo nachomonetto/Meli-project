@@ -1,0 +1,5 @@
+{
+    "entity": "celulares",
+    "endpoint": "https://api.mercadolibre.com/sites/MLA/search?category=MLA1051",
+    "fields": ["id","site_id","title","price","sold_quantity","thumbnail"]
+}

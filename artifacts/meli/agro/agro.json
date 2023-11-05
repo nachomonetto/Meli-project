@@ -1,0 +1,5 @@
+{
+    "entity": "agro",
+    "endpoint": "https://api.mercadolibre.com/sites/MLA/search?category=MLA1512",
+    "fields": ["id","site_id","title","price","sold_quantity","thumbnail"]
+}

@@ -1,0 +1,5 @@
+{
+    "entity": "heladeras",
+    "endpoint": "https://api.mercadolibre.com/sites/MLA/search?category=MLA1576",
+    "fields": ["id","site_id","title","price","sold_quantity","thumbnail"]
+}

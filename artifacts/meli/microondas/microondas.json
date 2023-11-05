@@ -1,0 +1,5 @@
+{
+    "entity": "microondas",
+    "endpoint": "https://api.mercadolibre.com/sites/MLA/search?category=MLA1577",
+    "fields": ["id","site_id","title","price","sold_quantity","thumbnail"]
+}
